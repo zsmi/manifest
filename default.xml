@@ -8,9 +8,8 @@
            remote="cc" 
 	   sync-j="4" />
 
-  <project path="transforms" name="transforms" />
-  <project path="application" name="application" />
-  <project path="os" name="operatingsystem" />
+  <project path="application/transforms" name="transforms" />
+  <project path="." name="application" />
 
 
 </manifest>
