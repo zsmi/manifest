@@ -5,10 +5,12 @@
            fetch="https://github.com/zsmi/" /> 
 
   <default revision="master"
-          remote="cc" />
+           remote="cc" 
+	   sync-j="4" />
 
   <project path="transforms" name="transforms" />
-  <project path="." name="application" />
+  <project path="application" name="application" />
+  <project path="os" name="operatingsystem" />
 
 
 </manifest>
