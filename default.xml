@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="cc"
+           fetch="https://github.com/zsmi/" /> 
+
+  <default revision="master"
+          remote="cc" />
+
+  <project path="transforms" name="application/transforms" />
+  <project path="application" name="application" />
+
+
+</manifest>
