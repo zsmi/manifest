@@ -15,7 +15,7 @@
   <project path="transforms" name="transforms" />
   <project path="webbrowser" name="webbrowser" />
   <project path="webbrowser/transforms" name="transforms" />
-  <project path="email" name="email" />
-  <project path="email/transforms" name="transforms" />
+  <project path="emailclient" name="emailclient" />
+  <project path="emailclient/transforms" name="transforms" />
 
 </manifest>
