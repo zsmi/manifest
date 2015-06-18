@@ -7,8 +7,8 @@
   <default revision="master"
           remote="cc" />
 
-  <project path="transforms" name="application/transforms" />
-  <project path="application" name="application" />
+  <project path="transforms" name="transforms" />
+  <project path="." name="application" />
 
 
 </manifest>
