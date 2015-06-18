@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="cc"
+  <remote  name="commoncriteria"
            fetch="https://github.com/zsmi/" /> 
 
   <default revision="master"
-           remote="cc" 
+           remote="commoncriteria" 
 	   sync-j="4" />
 
+  <project path="application" name="application" />
+  <project path="application/transforms" name="transforms" />
+  <project path="os" name="operatingsystem" />
+  <project path="os/transforms" name="transforms" />
   <project path="transforms" name="transforms" />
-  <project path="." name="application" />
-
+  <project path="webbrowser" name="webbrowser" />
+  <project path="webbrowser/transforms" name="transforms" />
+  <project path="email" name="email" />
+  <project path="email/transforms" name="transforms" />
 
 </manifest>
