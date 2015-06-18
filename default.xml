@@ -8,7 +8,7 @@
            remote="cc" 
 	   sync-j="4" />
 
-  <project path="application/transforms" name="transforms" />
+  <project path="transforms" name="transforms" />
   <project path="." name="application" />
 
 
