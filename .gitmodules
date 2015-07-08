@@ -1,0 +1,12 @@
+[submodule "application/transforms"]
+	path = application/transforms
+	url = https://github.com/commoncriteria/transforms.git
+[submodule "operatingsystem/transforms"]
+	path = operatingsystem/transforms
+	url = https://github.com/commoncriteria/transforms.git
+[submodule "emailclient/transforms"]
+	path = emailclient/transforms
+	url = https://github.com/commoncriteria/transforms.git
+[submodule "webbrowser/transforms"]
+	path = webbrowser/transforms
+	url = https://github.com/commoncriteria/transforms.git
