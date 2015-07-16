@@ -9,6 +9,7 @@ Pull all protection profiles:
 ````
  $ repo init -u https://github.com/zsmi/manifest.git
  $ repo sync 
+ $ repo forall -c "git submodule init; git submodule update"
 ````
 Sync repos with upstream:
 ````
