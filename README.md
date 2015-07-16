@@ -11,10 +11,6 @@ Pull all protection profiles:
  $ repo sync 
  $ repo forall -c "git submodule init; git submodule update"
 ````
-Sync repos with upstream:
-````
- $ repo sync
-````
 Sync latest changes:
 ````
  $ repo sync
