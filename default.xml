@@ -9,7 +9,11 @@
 	   sync-j="4" />
 
   <project path="application" name="application" />
+  <project path="fileencryption" name="fileencryption" />
+  <project path="ipsecclient" name="ipsecclient" />
   <project path="operatingsystem" name="operatingsystem" />
+  <project path="redaction" name="redaction" />
+  <project path="ssh" name="ssh" />
   <project path="transforms" name="transforms" />
   <project path="webbrowser" name="webbrowser" />
   <project path="emailclient" name="emailclient" />
