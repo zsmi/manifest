@@ -10,12 +10,16 @@
 
   <project path="application" name="application" />
   <project path="fileencryption" name="fileencryption" />
-  <project path="ipsecclient" name="ipsecclient" />
   <project path="operatingsystem" name="operatingsystem" />
   <project path="redaction" name="redaction" />
   <project path="ssh" name="ssh" />
   <project path="transforms" name="transforms" />
   <project path="webbrowser" name="webbrowser" />
   <project path="emailclient" name="emailclient" />
+  <project path="clientvirtualization" name="clientvirtualization" />
+  <project path="servervirtualization" name="servervirtualization" />
+  <project path="applicationisolation" name="applicationisolation" />
+  <project path="mdm" name="mdm" />
+  <project path="mdmagent" name="mdmagent" />
 
 </manifest>
