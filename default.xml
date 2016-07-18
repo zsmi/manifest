@@ -24,5 +24,6 @@
   <project path="mdmagent" name="mdmagent" />
   <project path="pp-template" name="pp-template" />
   <project path="tls" name="tls" />
+  <project path="wids" name="wids" />
 
 </manifest>
