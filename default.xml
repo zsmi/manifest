@@ -20,6 +20,7 @@
   <project path="servervirtualization" name="servervirtualization" />
   <project path="applicationisolation" name="applicationisolation" />
   <project path="mdm" name="mdm" />
+  <project path="mobile-device" name="mobile-device" />
   <project path="mdmagent" name="mdmagent" />
   <project path="pp-template" name="pp-template" />
   <project path="tls" name="tls" />
