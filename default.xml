@@ -9,21 +9,21 @@
 	   sync-j="4" />
 
   <project path="application" name="application" />
+  <project path="clientvirtualization" name="clientvirtualization" />
+  <project path="crypto-catalog" name="crypto-catalog" />
+  <project path="emailclient" name="emailclient" />
   <project path="fileencryption" name="fileencryption" />
+  <project path="mdm" name="mdm" />
+  <project path="mdmagent" name="mdmagent" />
+  <project path="mobile-device" name="mobile-device" />
   <project path="operatingsystem" name="operatingsystem" />
+  <project path="pp-template" name="pp-template" />
   <project path="redaction" name="redaction" />
+  <project path="servervirtualization" name="servervirtualization" />
   <project path="ssh" name="ssh" />
+  <project path="tls" name="tls" />
   <project path="transforms" name="transforms" />
   <project path="webbrowser" name="webbrowser" />
-  <project path="emailclient" name="emailclient" />
-  <project path="clientvirtualization" name="clientvirtualization" />
-  <project path="servervirtualization" name="servervirtualization" />
-  <project path="applicationisolation" name="applicationisolation" />
-  <project path="mdm" name="mdm" />
-  <project path="mobile-device" name="mobile-device" />
-  <project path="mdmagent" name="mdmagent" />
-  <project path="pp-template" name="pp-template" />
-  <project path="tls" name="tls" />
   <project path="wids" name="wids" />
 
 </manifest>
