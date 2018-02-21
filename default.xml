@@ -12,6 +12,9 @@
   <project path="clientvirtualization" name="clientvirtualization" />
   <project path="crypto-catalog" name="crypto-catalog" />
   <project path="emailclient" name="emailclient" />
+  <project path="esm-edr" name="esm-edr" />
+  <project path="esm-hostagent" name="esm-hostagent" />
+  <project path="esm-systemsmanagement" name="esm-systemsmanagement" />
   <project path="fileencryption" name="fileencryption" />
   <project path="mdm" name="mdm" />
   <project path="mdmagent" name="mdmagent" />
