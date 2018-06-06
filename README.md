@@ -8,7 +8,9 @@ Pull all protection profiles:
 
 ````
  $ repo init -u https://github.com/zsmi/manifest.git
- $ repo sync 
+ $ repo sync
+ $ repo forall -c "git branch --track master remotes/commoncriteria/master"
+ $ repo forall -c "git checkout master"
  $ repo forall -c "git submodule init; git submodule update"
 ````
 Sync latest changes:
