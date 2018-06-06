@@ -16,6 +16,7 @@
   <project path="esm-hostagent" name="esm-hostagent" />
   <project path="esm-systemsmanagement" name="esm-systemsmanagement" />
   <project path="fileencryption" name="fileencryption" />
+  <project path="fileencryption-enterprisemgmt" name="fileencryption-enterprisemgmt" />
   <project path="mdm" name="mdm" />
   <project path="mdmagent" name="mdmagent" />
   <project path="mobile-device" name="mobile-device" />
