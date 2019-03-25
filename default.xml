@@ -23,6 +23,7 @@
   <project path="operatingsystem" name="operatingsystem" />
   <project path="pp-template" name="pp-template" />
   <project path="redaction" name="redaction" />
+  <project path="sdn-controller" name="sdn-controller" />
   <project path="servervirtualization" name="servervirtualization" />
   <project path="ssh" name="ssh" />
   <project path="tls" name="tls" />
