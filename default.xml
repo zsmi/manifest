@@ -29,7 +29,9 @@
   <project path="ssh" name="ssh" />
   <project path="tls" name="tls" />
   <project path="transforms" name="transforms" />
+  <project path="virtualization" name="virtualization" />
   <project path="webbrowser" name="webbrowser" />
   <project path="wids" name="wids" />
+  <project path="wlanclient" name="wlanclient" />
 
 </manifest>
