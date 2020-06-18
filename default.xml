@@ -9,6 +9,7 @@
 	   sync-j="4" />
 
   <project path="application" name="application" />
+  <project path="certauth" name="certauth" />
   <project path="clientvirtualization" name="clientvirtualization" />
   <project path="crypto-catalog" name="crypto-catalog" />
   <project path="emailclient" name="emailclient" />
